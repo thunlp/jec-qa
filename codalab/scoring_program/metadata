@@ -1,0 +1,2 @@
+command: python $program/evaluate.py $input $output
+description: Jec-QA evalutaion program.
